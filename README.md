@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello everyone
+
+I am currently training as a **Javascript** Fullstack web developer at *Ecole O'Clock*.
+
+I know the **express** and **react** frameworks.
+
+I enjoy discovering and studying new technologies, especially backend and database management.
 
 <!--
 **Sylvain-Lepoutre/Sylvain-Lepoutre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
